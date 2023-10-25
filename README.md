@@ -1,4 +1,4 @@
-<ing src="http://maosixian.github.io/plinix-product-card.webp" alt="RPB Photo" align="right" width="38%"/>
+<ing src="http://Maosixian.github.io/blob/main/sos.jpg" alt="RPB Photo" align="right" width="38%"/>
 
 
 # Sixian Mao
