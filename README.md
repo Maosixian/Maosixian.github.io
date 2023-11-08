@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="https://github.com/Maosixian/Maosixian.github.io/blob/main/self.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Sixian Mao_
 
